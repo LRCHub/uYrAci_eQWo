@@ -1,4 +1,4 @@
-# 315 STARS (Physical Version) – LET'S GO!!
+# 315 STARS (フィジカル Ver.) – LET'S GO!!
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
