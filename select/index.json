@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "LET'S GO!!",
+  "base_artist": "315 STARS (Physical Version)",
+  "createdAt": "2026-03-13T13:25:58.532792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Go to Vegas",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_Let's_Go_to_Vegas_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Go to Vegas (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/02_Let's_Go_to_Vegas_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Go 소녀시대!! (Long Version)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/03_Let's_Go_소녀시대!!_(Long_Version)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's Go 소녀시대!! (길게 듣기)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/04_Let's_Go_소녀시대!!_(길게_듣기)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let's Go Play",
+      "artist": "Young Thug & Bloody Jay",
+      "has_synced": true,
+      "path": "select/05_Let's_Go_Play_Young_Thug_&_Bloody_Jay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let's Go Everywhere",
+      "artist": "Medeski, Martin & Wood",
+      "has_synced": true,
+      "path": "select/06_Let's_Go_Everywhere_Medeski,_Martin_&_Wood.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let's Go Free",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/07_Let's_Go_Free_Moby.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come On Baby Let's Go Downtown",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/08_Come_On_Baby_Let's_Go_Downtown_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let's Go for a Walk",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/09_Let's_Go_for_a_Walk_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let's go",
+      "artist": "The Shoes",
+      "has_synced": false,
+      "path": "select/10_Let's_go_The_Shoes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let's Go Crazy",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/11_Let's_Go_Crazy_Prince.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Go Together (Wagner Remix)",
+      "artist": "Gamble & Burke",
+      "has_synced": false,
+      "path": "select/12_Let's_Go_Together_(Wagner_Remix)_Gamble_&_Burke.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Connemara, Let's Go (The David 'Kid' Jensen Show) [July 1984] [Live]",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/13_Connemara,_Let's_Go_(The_David_'Kid'_Jensen_Show)_[July_1984]_[Live]_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Go Childish",
+      "artist": "Cartoons",
+      "has_synced": true,
+      "path": "select/14_Let's_Go_Childish_Cartoons.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come On, Let's Go (with Nigo)",
+      "artist": "Tyler, The Creator feat. Nigo",
+      "has_synced": true,
+      "path": "select/15_Come_On,_Let's_Go_(with_Nigo)_Tyler,_The_Creator_feat._Nigo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come On, Let's Go (feat. Tyler, The Creator)",
+      "artist": "Nigo",
+      "has_synced": true,
+      "path": "select/16_Come_On,_Let's_Go_(feat._Tyler,_The_Creator)_Nigo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let's Go",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/17_Let's_Go_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Let's Go",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/18_Let's_Go_Wang_Chung.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LET'S GO!!",
+      "artist": "315 STARS (フィジカル Ver.)",
+      "has_synced": false,
+      "path": "select/pl_01_LET'S_GO!!_315_STARS_(フィジカル_Ver.).txt"
+    }
+  ]
+}
